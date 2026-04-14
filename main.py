@@ -259,9 +259,6 @@ def _run_state_machine(
             current_author = None
             continue
 
-        if not in_am_lit:
-            continue
-
         if kind == "period":
             if current_period is None:
                 current_period = tok
