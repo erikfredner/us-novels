@@ -141,6 +141,15 @@ def find_gutenberg_matches(title: str, author: str) -> list[tuple[int, str]]:
             for person in book.get("authors", [])
         ):
             continue
+        # Skip audiobook-only entries (no real plain-text file).
+        # Gutendex marks these with a text/plain key pointing to a readme.
+        formats = book.get("formats", {})
+        has_text = any(
+            "text/plain" in mime and not url.endswith("readme.txt")
+            for mime, url in formats.items()
+        )
+        if not has_text:
+            continue
         gid = book["id"]
         if gid not in seen:
             seen.add(gid)

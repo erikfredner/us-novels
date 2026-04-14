@@ -26,7 +26,7 @@ Sister Carrie,1900,"Dreiser, Theodore",1871,1945,1900-1999,100,3.666096,233
 The Secret Garden,1911,"Burnett, Frances Hodgson",1849,1924,1900-1999,99,3.62643,17396
 The Blithedale Romance,1852,"Hawthorne, Nathaniel",1804,1864,1800-1899,237,3.612243,2081
 A Connecticut Yankee in King Arthur's Court,1889,"Twain, Mark",1835,1910,1800-1899,231,3.515983,19506
-Typee,1846,"Melville, Herman",1819,1891,1800-1899,230,3.49994,23969
+Typee,1846,"Melville, Herman",1819,1891,1800-1899,230,3.49994,1900
 The Red Badge of Courage,1895,"Crane, Stephen",1871,1900,1800-1899,227,3.45181,73
 The House of the Seven Gables,1851,"Hawthorne, Nathaniel",1804,1864,1800-1899,226,3.435767,77
 A Farewell to Arms,1929,"Hemingway, Ernest",1899,1961,1900-1999,94,3.428101,75201
@@ -56,7 +56,7 @@ McTeague,1899,"Norris, Frank",1870,1902,1800-1899,128,1.863523,165
 Herland,1915,"Gilman, Charlotte Perkins",1860,1935,1900-1999,51,1.722476,32
 Manhattan Transfer,1925,"Dos Passos, John",1896,1970,1900-1999,50,1.68281,71853
 The Wonderful Wizard of Oz,1900,"Baum, L. Frank",1856,1919,1900-1999,49,1.643144,55
-O Pioneers!,1913,"Cather, Willa",1873,1947,1900-1999,49,1.643144,22448
+O Pioneers!,1913,"Cather, Willa",1873,1947,1900-1999,49,1.643144,24
 The Pit,1903,"Norris, Frank",1870,1902,1900-1999,49,1.643144,4382
 What Maisie Knew,1897,"James, Henry, Jr.",1843,1916,1800-1899,114,1.638917,7118
 The Princess Casamassima,1886,"James, Henry, Jr.",1843,1916,1800-1899,113,1.622874,64599
@@ -112,7 +112,7 @@ Contending Forces,1900,"Hopkins, Pauline E.",1859,1930,1900-1999,27,0.770499,
 The Awkward Age,1899,"James, Henry, Jr.",1843,1916,1800-1899,59,0.756535,7433
 The Quest of the Silver Fleece,1911,"Du Bois, W. E. B.",1868,1963,1900-1999,26,0.730833,
 Ramona,1884,"Jackson, Helen Hunt",1830,1885,1800-1899,57,0.724449,2802
-Omoo,1847,"Melville, Herman",1819,1891,1800-1899,57,0.724449,9268
+Omoo,1847,"Melville, Herman",1819,1891,1800-1899,57,0.724449,4045
 The Damnation of Theron Ware,1896,"Frederic, Harold",1856,1898,1800-1899,55,0.692362,133
 The Turn of the Screw,1898,"James, Henry, Jr.",1843,1916,1800-1899,53,0.660275,209
 The House behind the Cedars,1900,"Chesnutt, Charles W.",1858,1932,1900-1999,24,0.651501,472
@@ -123,7 +123,7 @@ The Prairie,1827,"Cooper, James Fenimore",1789,1851,1800-1899,52,0.644232,6450
 The American Scene,1907,"James, Henry, Jr.",1843,1916,1900-1999,23,0.611836,68717
 The Jungle,1906,"Sinclair, Upton",1878,1968,1900-1999,23,0.611836,140
 Bread Givers,1925,"Yezierska, Anzia",1885,1970,1900-1999,23,0.611836,
-The Spy,1821,"Cooper, James Fenimore",1789,1851,1800-1899,49,0.596102,26272
+The Spy,1821,"Cooper, James Fenimore",1789,1851,1800-1899,49,0.596102,9845
 A Little Princess,1905,"Burnett, Frances Hodgson",1849,1924,1900-1999,22,0.57217,146
 The Sense of the Past,1917,"James, Henry, Jr.",1843,1916,1900-1999,22,0.57217,63369
 Babbitt,1922,"Lewis, Sinclair",1885,1951,1900-1999,22,0.57217,1156
@@ -141,12 +141,10 @@ The Call of the Wild,1903,"London, Jack",1876,1916,1900-1999,19,0.453173,215
 Ben-Hur,1880,"Wallace, Lew",1827,1905,1800-1899,40,0.451712,2145
 Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.435669,2874
 Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.435669,2875
-Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.435669,9002
-Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.435669,9001
 Work,1873,"Alcott, Louisa May",1832,1888,1800-1899,38,0.419626,4770
 At Fault,1890,"Chopin, Kate",1851,1904,1800-1899,38,0.419626,23810
 The Minister's Wooing,1859,"Stowe, Harriet Beecher",1811,1896,1800-1899,38,0.419626,47958
-"Winesburg, Ohio",1919,"Anderson, Sherwood",1876,1941,1900-1999,18,0.413507,22949
+"Winesburg, Ohio",1919,"Anderson, Sherwood",1876,1941,1900-1999,18,0.413507,416
 The Virginian,1902,"Wister, Owen",1860,1938,1900-1999,18,0.413507,1298
 The Deerslayer,1841,"Cooper, James Fenimore",1789,1851,1800-1899,37,0.403583,3285
 The Quaker City,1845,"Lippard, George",1822,1854,1800-1899,37,0.403583,
@@ -163,7 +161,7 @@ Ruth Hall,1855,"Fern, Fanny",1811,1872,1800-1899,31,0.307323,40814
 The Financier,1912,"Dreiser, Theodore",1871,1945,1900-1999,15,0.29451,1840
 The Hidden Hand,1859,"Southworth, E. D. E. N.",1819,1899,1800-1899,30,0.291279,
 The Garies and Their Friends,1857,"Webb, Frank J.",1847,,1800-1899,30,0.291279,11214
-Little Men,1871,"Alcott, Louisa May",1832,1888,1800-1899,29,0.275236,22787
+Little Men,1871,"Alcott, Louisa May",1832,1888,1800-1899,29,0.275236,2788
 Democracy,1880,"Adams, Henry Brooks",1838,1918,1800-1899,28,0.259193,2815
 Wynema,1891,"Callahan, S. Alice",1868,1894,1800-1899,28,0.259193,
 The Gilded Age,1873,"Warner, Charles Dudley",1829,1900,1800-1899,28,0.259193,3178
@@ -179,7 +177,7 @@ The Birth of a Nation,1915,"Griffith, D. W.",1875,1948,1900-1999,13,0.215179,
 Twilight Sleep,1927,"Wharton, Edith",1862,1937,1900-1999,13,0.215179,70844
 Female Quixotism,1801,"Tenney, Tabitha",1762,1837,1800-1899,25,0.211063,
 Those Extraordinary Twins,1894,"Twain, Mark",1835,1910,1800-1899,25,0.211063,3185
-Ragged Dick,1867,"Alger, Horatio, Jr.",1832,1899,1800-1899,24,0.19502,20689
+Ragged Dick,1867,"Alger, Horatio, Jr.",1832,1899,1800-1899,24,0.19502,5348
 Deephaven,1877,"Jewett, Sarah Orne",1849,1909,1800-1899,24,0.19502,15985
 Miss Ravenel's Conversion from Secession to Loyalty,1867,"De Forest, John William",1826,1906,1800-1899,23,0.178976,41355
 Minnie's Sacrifice,1869,"Harper, Frances Ellen Watkins",1825,1911,1800-1899,23,0.178976,11053
@@ -191,7 +189,7 @@ Soldiers' Pay,1926,"Faulkner, William",1897,1962,1900-1999,12,0.175513,
 Red Harvest,1929,"Hammett, Dashiell",1894,1961,1900-1999,12,0.175513,
 Sein und Zeit,1927,"Heidegger, Martin",1889,1976,1900-1999,12,0.175513,
 The Scarlet Plague,1915,"London, Jack",1876,1916,1900-1999,12,0.175513,21970
-Pollyanna,1913,"Porter, Eleanor H.",1868,1920,1900-1999,12,0.175513,28798
+Pollyanna,1913,"Porter, Eleanor H.",1868,1920,1900-1999,12,0.175513,1450
 The Blacker the Berry,1929,"Thurman, Wallace",1902,1934,1900-1999,12,0.175513,
 The Pilot,1823,"Cooper, James Fenimore",1789,1851,1800-1899,22,0.162933,7974
 Jo's Boys,1886,"Alcott, Louisa May",1832,1888,1800-1899,21,0.14689,3499
@@ -255,7 +253,7 @@ Juanita,1887,"Mann, Mary Tyler Peabody",1806,1887,1800-1899,14,0.034587,
 The Pearl of Orr's Island,1862,"Stowe, Harriet Beecher",1811,1896,1800-1899,14,0.034587,31522
 Roughing It,1872,"Twain, Mark",1835,1910,1800-1899,14,0.034587,3177
 Doctor Zay,1882,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,14,0.034587,
-Little Lord Fauntleroy,1886,"Burnett, Frances Hodgson",1849,1924,1800-1899,13,0.018543,23710
+Little Lord Fauntleroy,1886,"Burnett, Frances Hodgson",1849,1924,1800-1899,13,0.018543,479
 Yekl,1896,"Cahan, Abraham",1860,1951,1800-1899,13,0.018543,36715
 The Red Rover,1827,"Cooper, James Fenimore",1789,1851,1800-1899,13,0.018543,11409
 Margret Howth,1862,"Davis, Rebecca Harding",1831,1910,1800-1899,13,0.018543,515
