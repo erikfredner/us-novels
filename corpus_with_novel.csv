@@ -213,7 +213,7 @@ Those Extraordinary Twins,1894,"Twain, Mark",1835,1910,1800-1899,25,0.204535,twa
 Alexander's Bridge,1912,"Cather, Willa",1873,1947,1900-1999,20,0.190956,cather_alexanders-bridge_1912,94,TRUE,
 In Our Time,1924,"Hemingway, Ernest",1899,1961,1900-1999,20,0.190956,hemingway_in-our-time_1924,61085,TRUE,Short story cycle
 The Pilot,1823,"Cooper, James Fenimore",1789,1851,1800-1899,24,0.188936,cooper_the-pilot_1823,7974,TRUE,
-Deephaven,1877,"Jewett, Sarah Orne",1849,1909,1800-1899,24,0.188936,jewett_deephaven_1877,,FALSE,Regional sketches; lacks cohesive narrative arc
+Deephaven,1877,"Jewett, Sarah Orne",1849,1909,1800-1899,24,0.188936,jewett_deephaven_1877,,TRUE,Regional story cycle
 Secret History,1808,"Sansay, Leonora",1781,,1800-1899,24,0.188936,sansay_secret-history_1808,59533,TRUE,Epistolary novel
 The Silent Partner,1871,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,24,0.188936,ward_the-silent-partner_1871,31735,TRUE,
 Miss Ravenel's Conversion from Secession to Loyalty,1867,"De Forest, John William",1826,1906,1800-1899,23,0.173337,deforest_miss-ravenels-conversion-from_1867,41355,TRUE,
@@ -274,7 +274,7 @@ Satanstoe,1845,"Cooper, James Fenimore",1789,1851,1800-1899,15,0.048544,cooper_s
 Fanshawe,1828,"Hawthorne, Nathaniel",1804,1864,1800-1899,15,0.048544,hawthorne_fanshawe_1828,7085,TRUE,
 A New-England Tale,1822,"Sedgwick, Catharine Maria",1789,1867,1800-1899,15,0.048544,sedgwick_a-newengland-tale_1822,,TRUE,Novella
 Bricks without Straw,1880,"Tourgée, Albion W.",1838,1905,1800-1899,15,0.048544,tourgee_bricks-without-straw_1880,6058,TRUE,
-The Boarding School,1798,"Foster, Hannah Webster",1759,1840,1700-1799,10,0.039858,foster_the-boarding-school_1798,55558,FALSE,Essays on female education; not a novel
+The Boarding School,1798,"Foster, Hannah Webster",1759,1840,1700-1799,10,0.039858,foster_the-boarding-school_1798,55558,TRUE,
 Palimpsest,1926,"Doolittle, Hilda",1886,1961,1900-1999,13,0.039394,doolittle_palimpsest_1926,,TRUE,Three novellas
 Virginia,1913,"Glasgow, Ellen",1873,1945,1900-1999,13,0.039394,glasgow_virginia_1913,26316,TRUE,
 The Glimpses of the Moon,1922,"Wharton, Edith",1862,1937,1900-1999,13,0.039394,wharton_the-glimpses-of-the-moon_1922,1263,TRUE,
@@ -283,12 +283,12 @@ Nature,1836,"Emerson, Ralph Waldo",1803,1882,1800-1899,14,0.032945,emerson_natur
 Elsie Venner,1861,"Holmes, Oliver Wendell",1809,1894,1800-1899,14,0.032945,holmes_elsie-venner_1861,2696,TRUE,
 In the Cage,1898,"James, Henry, Jr.",1843,1916,1800-1899,14,0.032945,james_in-the-cage_1898,1144,TRUE,Novella
 Juanita,1887,"Mann, Mary Tyler Peabody",1806,1887,1800-1899,14,0.032945,mann_juanita_1887,,TRUE,
-The Encantadas,1854,"Melville, Herman",1819,1891,1800-1899,14,0.032945,melville_the-encantadas_1854,,FALSE,Series of sketches about the Galapagos Islands
+The Encantadas,1854,"Melville, Herman",1819,1891,1800-1899,14,0.032945,melville_the-encantadas_1854,,TRUE,Novella
 The Pearl of Orr's Island,1862,"Stowe, Harriet Beecher",1811,1896,1800-1899,14,0.032945,stowe_the-pearl-of-orrs-island_1862,31522,TRUE,
 Roughing It,1872,"Twain, Mark",1835,1910,1800-1899,14,0.032945,twain_roughing-it_1872,3177,FALSE,Travel narrative/humor memoir
 Doctor Zay,1882,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,14,0.032945,ward_doctor-zay_1882,,TRUE,
 Dark Laughter,1925,"Anderson, Sherwood",1876,1941,1900-1999,12,0.017743,anderson_dark-laughter_1925,,TRUE,
-The Ladies' Almanack,1928,"Barnes, Djuna",1892,1982,1900-1999,12,0.017743,barnes_the-ladies-almanack_1928,,FALSE,Satirical chapbook/almanac; not a novel
+The Ladies' Almanack,1928,"Barnes, Djuna",1892,1982,1900-1999,12,0.017743,barnes_the-ladies-almanack_1928,,TRUE,
 Dodsworth,1929,"Lewis, Sinclair",1885,1951,1900-1999,12,0.017743,lewis_dodsworth_1929,,TRUE,
 The Mark of Zorro,1919,"McCulley, Johnston",1883,1958,1900-1999,12,0.017743,mcculley_the-mark-of-zorro_1919,61620,TRUE,
 The Magnificent Ambersons,1918,"Tarkington, Booth",1869,1944,1900-1999,12,0.017743,tarkington_the-magnificent-ambersons_1918,8867,TRUE,
@@ -310,6 +310,6 @@ The Other House,1896,"James, Henry, Jr.",1843,1916,1800-1899,12,0.001746,james_t
 Evangeline,1847,"Longfellow, Henry Wadsworth",1807,1882,1800-1899,12,0.001746,longfellow_evangeline_1847,15390,FALSE,Narrative poem
 Battle Pieces and Aspects of War,1866,"Melville, Herman",1819,1891,1800-1899,12,0.001746,melville_battle-pieces-and-aspects-of_1866,12384,FALSE,Poetry collection
 The Journal of Julius Rodman,1840,"Poe, Edgar Allan",1809,1849,1800-1899,12,0.001746,poe_the-journal-of-julius-rodman_1840,,TRUE,Unfinished fictional narrative; serialized as a hoax
-Sincerity,1803,"Rowson, Susanna",1762,1824,1800-1899,12,0.001746,rowson_sincerity_1803,,FALSE,Likely periodical essays by Rowson; genre uncertain
+Sincerity,1803,"Rowson, Susanna",1762,1824,1800-1899,12,0.001746,rowson_sincerity_1803,,TRUE,Epistolary novel
 Agnes of Sorrento,1862,"Stowe, Harriet Beecher",1811,1896,1800-1899,12,0.001746,stowe_agnes-of-sorrento_1862,43076,TRUE,
 The Confessions of Nat Turner,1831,"Turner, Nat",1800,1831,1800-1899,12,0.001746,turner_the-confessions-of-nat-turner_1831,15333,FALSE,Historical document/legal confession
