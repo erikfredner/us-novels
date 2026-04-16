@@ -150,6 +150,11 @@ def find_gutenberg_matches(title: str, author: str) -> list[tuple[int, str]]:
         )
         if not has_text:
             continue
+        # Skip audiobook reading scripts whose title or subtitle contains
+        # "Reading by <name>" (e.g. "…: Reading by Steve Andersen").
+        reading_fields = book.get("title", "") + " " + book.get("subtitle", "")
+        if re.search(r"\breading by\b", reading_fields, re.IGNORECASE):
+            continue
         gid = book["id"]
         if gid not in seen:
             seen.add(gid)

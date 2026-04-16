@@ -1,283 +1,315 @@
-Novel Title,Novel year of publication,Author,Author Birth,Author Death,Period,Count,Z Score,Gutenberg ID
-Moby-Dick,1851,"Melville, Herman",1819,1891,1800-1899,1376,21.885566,15
-The Adventures of Huckleberry Finn,1884,"Twain, Mark",1835,1910,1800-1899,952,15.083205,32325
-The Scarlet Letter,1850,"Hawthorne, Nathaniel",1804,1864,1800-1899,733,11.569722,25344
-The Ambassadors,1903,"James, Henry, Jr.",1843,1916,1900-1999,299,11.559573,432
-The Golden Bowl,1904,"James, Henry, Jr.",1843,1916,1900-1999,274,10.56793,4264
-The Wings of the Dove,1902,"James, Henry, Jr.",1843,1916,1900-1999,253,9.73495,29452
-The Wings of the Dove,1902,"James, Henry, Jr.",1843,1916,1900-1999,253,9.73495,30059
-The Great Gatsby,1925,"Fitzgerald, F. Scott",1896,1940,1900-1999,238,9.139964,64317
-Uncle Tom's Cabin,1852,"Stowe, Harriet Beecher",1811,1896,1800-1899,572,8.98675,203
-The Awakening,1899,"Chopin, Kate",1851,1904,1800-1899,448,6.99738,160
-The Sound and the Fury,1929,"Faulkner, William",1897,1962,1900-1999,172,6.522027,75170
-The Portrait of a Lady,1881,"James, Henry, Jr.",1843,1916,1800-1899,416,6.483995,2833
-The Portrait of a Lady,1881,"James, Henry, Jr.",1843,1916,1800-1899,416,6.483995,2834
-Wieland,1798,"Brown, Charles Brockden",1771,1810,1700-1799,137,5.305876,792
-My Ántonia,1918,"Cather, Willa",1873,1947,1900-1999,135,5.054396,242
-The House of Mirth,1905,"Wharton, Edith",1862,1937,1900-1999,135,5.054396,284
-The Sun Also Rises,1926,"Hemingway, Ernest",1899,1961,1900-1999,126,4.697404,67138
-Pierre,1852,"Melville, Herman",1819,1891,1800-1899,299,4.606928,34970
-Edgar Huntly,1799,"Brown, Charles Brockden",1771,1810,1700-1799,109,4.138636,8223
-As I Lay Dying,1930,"Faulkner, William",1897,1962,1900-1999,111,4.102419,
-Passing,1929,"Larsen, Nella",1893,1963,1900-1999,107,3.943756,
-The Octopus,1901,"Norris, Frank",1870,1902,1900-1999,104,3.824759,268
-The Confidence-Man,1857,"Melville, Herman",1819,1891,1800-1899,243,3.708503,21816
-Sister Carrie,1900,"Dreiser, Theodore",1871,1945,1900-1999,100,3.666096,233
-The Secret Garden,1911,"Burnett, Frances Hodgson",1849,1924,1900-1999,99,3.62643,17396
-The Blithedale Romance,1852,"Hawthorne, Nathaniel",1804,1864,1800-1899,237,3.612243,2081
-A Connecticut Yankee in King Arthur's Court,1889,"Twain, Mark",1835,1910,1800-1899,231,3.515983,19506
-Typee,1846,"Melville, Herman",1819,1891,1800-1899,230,3.49994,1900
-The Red Badge of Courage,1895,"Crane, Stephen",1871,1900,1800-1899,227,3.45181,73
-The House of the Seven Gables,1851,"Hawthorne, Nathaniel",1804,1864,1800-1899,226,3.435767,77
-A Farewell to Arms,1929,"Hemingway, Ernest",1899,1961,1900-1999,94,3.428101,75201
-Quicksand,1928,"Larsen, Nella",1893,1963,1900-1999,91,3.309104,
-The Marble Faun,1860,"Hawthorne, Nathaniel",1804,1864,1800-1899,218,3.30742,2181
-The Marble Faun,1860,"Hawthorne, Nathaniel",1804,1864,1800-1899,218,3.30742,2182
-The Professor's House,1925,"Cather, Willa",1873,1947,1900-1999,87,3.150441,65465
-Little Women,1868,"Alcott, Louisa May",1832,1888,1800-1899,206,3.114901,37106
-The Tragedy of Pudd'nhead Wilson,1894,"Twain, Mark",1835,1910,1800-1899,196,2.954468,102
-The Bostonians,1886,"James, Henry, Jr.",1843,1916,1800-1899,192,2.890295,19717
-The Bostonians,1886,"James, Henry, Jr.",1843,1916,1800-1899,192,2.890295,19718
-The Coquette,1797,"Foster, Hannah Webster",1759,1840,1700-1799,79,2.888022,12431
-The Narrative of Arthur Gordon Pym of Nantucket,1838,"Poe, Edgar Allan",1809,1849,1800-1899,189,2.842165,51060
-The Age of Innocence,1920,"Wharton, Edith",1862,1937,1900-1999,78,2.79345,541
-The Last of the Mohicans,1826,"Cooper, James Fenimore",1789,1851,1800-1899,179,2.681732,940
-The Marrow of Tradition,1901,"Chesnutt, Charles W.",1858,1932,1900-1999,72,2.555456,11228
-The Pilgrim's Progress,1678,"Bunyan, John",1628,1688,1600-1699,13,2.502079,131
-The Adventures of Tom Sawyer,1876,"Twain, Mark",1835,1910,1800-1899,166,2.473169,74
-Charlotte Temple,1791,"Rowson, Susanna",1762,1824,1700-1799,68,2.429463,171
-One of Ours,1922,"Cather, Willa",1873,1947,1900-1999,68,2.396793,2369
-Arthur Mervyn,1799,"Brown, Charles Brockden",1771,1810,1700-1799,59,2.054279,18508
-Of One Blood,1902,"Hopkins, Pauline E.",1859,1930,1900-1999,58,2.000136,69255
-The Sacred Fount,1901,"James, Henry, Jr.",1843,1916,1900-1999,58,2.000136,32939
-The Autobiography of an Ex-Colored Man,1912,"Johnson, James Weldon",1871,1938,1900-1999,58,2.000136,11012
-Looking Backward,1888,"Bellamy, Edward",1850,1898,1800-1899,130,1.89561,624
-McTeague,1899,"Norris, Frank",1870,1902,1800-1899,128,1.863523,165
-Herland,1915,"Gilman, Charlotte Perkins",1860,1935,1900-1999,51,1.722476,32
-Manhattan Transfer,1925,"Dos Passos, John",1896,1970,1900-1999,50,1.68281,71853
-The Wonderful Wizard of Oz,1900,"Baum, L. Frank",1856,1919,1900-1999,49,1.643144,55
-O Pioneers!,1913,"Cather, Willa",1873,1947,1900-1999,49,1.643144,24
-The Pit,1903,"Norris, Frank",1870,1902,1900-1999,49,1.643144,4382
-What Maisie Knew,1897,"James, Henry, Jr.",1843,1916,1800-1899,114,1.638917,7118
-The Princess Casamassima,1886,"James, Henry, Jr.",1843,1916,1800-1899,113,1.622874,64599
-Ormond,1799,"Brown, Charles Brockden",1771,1810,1700-1799,48,1.595721,36289
-Ormond,1799,"Brown, Charles Brockden",1771,1810,1700-1799,48,1.595721,36291
-Ormond,1799,"Brown, Charles Brockden",1771,1810,1700-1799,48,1.595721,36290
-The Pioneers,1823,"Cooper, James Fenimore",1789,1851,1800-1899,111,1.590787,2275
-An American Tragedy,1925,"Dreiser, Theodore",1871,1945,1900-1999,46,1.524147,75181
-"Look Homeward, Angel",1929,"Wolfe, Thomas",1900,1938,1900-1999,46,1.524147,
-The Aspern Papers,1888,"James, Henry, Jr.",1843,1916,1800-1899,105,1.494527,211
-The Song of the Lark,1915,"Cather, Willa",1873,1947,1900-1999,43,1.40515,44
-The American,1877,"James, Henry, Jr.",1843,1916,1800-1899,97,1.366181,
-Death Comes for the Archbishop,1927,"Cather, Willa",1873,1947,1900-1999,42,1.365484,69730
-The Custom of the Country,1913,"Wharton, Edith",1862,1937,1900-1999,42,1.365484,11052
-Maggie,1893,"Crane, Stephen",1871,1900,1800-1899,94,1.318051,447
-The Power of Sympathy,1789,"Brown, William Hill",1765,1793,1700-1799,41,1.303911,69250
-Mardi,1849,"Melville, Herman",1819,1891,1800-1899,92,1.285964,13720
-Mardi,1849,"Melville, Herman",1819,1891,1800-1899,92,1.285964,13721
-Modern Chivalry,1792,"Brackenridge, Hugh Henry",1748,1816,1700-1799,40,1.262223,
-The Rise of Silas Lapham,1885,"Howells, William Dean",1837,1920,1800-1899,90,1.253878,154
-Hope Leslie,1827,"Sedgwick, Catharine Maria",1789,1867,1800-1899,88,1.221791,76028
-Hope Leslie,1827,"Sedgwick, Catharine Maria",1789,1867,1800-1899,88,1.221791,76018
-Vandover and the Brute,1914,"Norris, Frank",1870,1902,1900-1999,37,1.167156,14712
-Summer,1917,"Wharton, Edith",1862,1937,1900-1999,37,1.167156,166
-Redburn,1849,"Melville, Herman",1819,1891,1800-1899,83,1.141574,8118
-The Souls of Black Folk,1903,"Du Bois, W. E. B.",1868,1963,1900-1999,36,1.12749,408
-A Lost Lady,1923,"Cather, Willa",1873,1947,1900-1999,35,1.087824,65636
-Incidents in the Life of a Slave Girl,1861,"Jacobs, Harriet Ann",1813,1897,1800-1899,79,1.077401,11030
-Iola Leroy,1892,"Harper, Frances Ellen Watkins",1825,1911,1800-1899,78,1.061358,12352
-Home to Harlem,1928,"McKay, Claude",1890,1948,1900-1999,34,1.048159,
-Blake,1859,"Delany, Martin Robison",1812,1885,1800-1899,76,1.029271,
-A Hazard of New Fortunes,1890,"Howells, William Dean",1837,1920,1800-1899,75,1.013228,4600
-The Spoils of Poynton,1897,"James, Henry, Jr.",1843,1916,1800-1899,75,1.013228,33325
-The Maltese Falcon,1930,"Hammett, Dashiell",1894,1961,1900-1999,33,1.008493,77600
-White-Jacket,1850,"Melville, Herman",1819,1891,1800-1899,74,0.997185,
-The Soveraignty and Goodness of God: A Narrative of the Captivity,1682,"Rowlandson, Mary",1635,1711,1600-1699,7,0.985667,
-Ethan Frome,1911,"Wharton, Edith",1862,1937,1900-1999,32,0.968827,4517
-Clotel,1853,"Brown, William Wells",1814,1884,1800-1899,72,0.965098,241
-Benito Cereno,1855,"Melville, Herman",1819,1891,1800-1899,72,0.965098,
-The Squatter and the Don,1885,"Ruiz de Burton, María Amparo",1832,1895,1800-1899,71,0.949055,35538
-Dark Princess,1928,"Du Bois, W. E. B.",1868,1963,1900-1999,31,0.929161,
-Israel Potter,1855,"Melville, Herman",1819,1891,1800-1899,68,0.900925,15422
-The Sport of the Gods,1902,"Dunbar, Paul Laurence",1872,1906,1900-1999,30,0.889496,17854
-The Making of Americans,1925,"Stein, Gertrude",1874,1946,1900-1999,30,0.889496,
-The Algerine Captive,1797,"Tyler, Royall",1757,1826,1700-1799,31,0.887039,
-Washington Square,1881,"James, Henry, Jr.",1843,1916,1800-1899,67,0.884882,2870
-"The Wide, Wide World",1850,"Warner, Susan",1819,1885,1800-1899,67,0.884882,28376
-The Tragic Muse,1890,"James, Henry, Jr.",1843,1916,1800-1899,66,0.868838,20085
-The Grandissimes,1880,"Cable, George Washington",1844,1925,1800-1899,65,0.852795,12280
-Roderick Hudson,1876,"James, Henry, Jr.",1843,1916,1800-1899,65,0.852795,176
-Dred,1856,"Stowe, Harriet Beecher",1811,1896,1800-1899,61,0.788622,55012
-Contending Forces,1900,"Hopkins, Pauline E.",1859,1930,1900-1999,27,0.770499,
-The Awkward Age,1899,"James, Henry, Jr.",1843,1916,1800-1899,59,0.756535,7433
-The Quest of the Silver Fleece,1911,"Du Bois, W. E. B.",1868,1963,1900-1999,26,0.730833,
-Ramona,1884,"Jackson, Helen Hunt",1830,1885,1800-1899,57,0.724449,2802
-Omoo,1847,"Melville, Herman",1819,1891,1800-1899,57,0.724449,4045
-The Damnation of Theron Ware,1896,"Frederic, Harold",1856,1898,1800-1899,55,0.692362,133
-The Turn of the Screw,1898,"James, Henry, Jr.",1843,1916,1800-1899,53,0.660275,209
-The House behind the Cedars,1900,"Chesnutt, Charles W.",1858,1932,1900-1999,24,0.651501,472
-Gentlemen Prefer Blondes,1925,"Loos, Anita",1888,1981,1900-1999,24,0.651501,
-Banjo,1929,"McKay, Claude",1890,1948,1900-1999,24,0.651501,
-Cane,1923,"Toomer, Jean",1894,1967,1900-1999,24,0.651501,60093
-The Prairie,1827,"Cooper, James Fenimore",1789,1851,1800-1899,52,0.644232,6450
-The American Scene,1907,"James, Henry, Jr.",1843,1916,1900-1999,23,0.611836,68717
-The Jungle,1906,"Sinclair, Upton",1878,1968,1900-1999,23,0.611836,140
-Bread Givers,1925,"Yezierska, Anzia",1885,1970,1900-1999,23,0.611836,
-The Spy,1821,"Cooper, James Fenimore",1789,1851,1800-1899,49,0.596102,9845
-A Little Princess,1905,"Burnett, Frances Hodgson",1849,1924,1900-1999,22,0.57217,146
-The Sense of the Past,1917,"James, Henry, Jr.",1843,1916,1900-1999,22,0.57217,63369
-Babbitt,1922,"Lewis, Sinclair",1885,1951,1900-1999,22,0.57217,1156
-Main Street,1920,"Lewis, Sinclair",1885,1951,1900-1999,22,0.57217,543
-Walden,1854,"Thoreau, Henry David",1817,1862,1800-1899,47,0.564016,205
-The Beautiful and Damned,1922,"Fitzgerald, F. Scott",1896,1940,1900-1999,21,0.532504,9830
-Hagar's Daughter,1901,"Hopkins, Pauline E.",1859,1930,1900-1999,21,0.532504,
-Narrative of the Life of Frederick Douglass,1845,"Douglass, Frederick",1817,1895,1800-1899,45,0.531929,23
-Morgesons,1862,"Stoddard, Elizabeth Drew",1823,1902,1800-1899,43,0.499842,12347
-The Clansman,1905,"Dixon, Thomas",1864,1946,1900-1999,20,0.492839,26240
-Plum Bun,1928,"Fauset, Jessie Redmon",1886,1961,1900-1999,20,0.492839,
-Who Would Have Thought It?,1872,"Ruiz de Burton, María Amparo",1832,1895,1800-1899,41,0.467756,
-The Call of the Wild,1903,"London, Jack",1876,1916,1900-1999,19,0.453173,215
-"The Life and Adventures of Joaquin Murieta, the Celebrated California Bandit",1854,"Ridge, John Rollin",1827,1867,1800-1899,40,0.451712,
-Ben-Hur,1880,"Wallace, Lew",1827,1905,1800-1899,40,0.451712,2145
-Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.435669,2874
-Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.435669,2875
-Work,1873,"Alcott, Louisa May",1832,1888,1800-1899,38,0.419626,4770
-At Fault,1890,"Chopin, Kate",1851,1904,1800-1899,38,0.419626,23810
-The Minister's Wooing,1859,"Stowe, Harriet Beecher",1811,1896,1800-1899,38,0.419626,47958
-"Winesburg, Ohio",1919,"Anderson, Sherwood",1876,1941,1900-1999,18,0.413507,416
-The Virginian,1902,"Wister, Owen",1860,1938,1900-1999,18,0.413507,1298
-The Deerslayer,1841,"Cooper, James Fenimore",1789,1851,1800-1899,37,0.403583,3285
-The Quaker City,1845,"Lippard, George",1822,1854,1800-1899,37,0.403583,
-Hobomok,1824,"Child, Lydia Maria",1802,1880,1800-1899,36,0.387539,
-The Europeans,1878,"James, Henry, Jr.",1843,1916,1800-1899,35,0.371496,179
-Imperium in Imperio,1899,"Griggs, Sutton E.",1872,1933,1800-1899,33,0.339409,15454
-A Modern Instance,1882,"Howells, William Dean",1837,1920,1800-1899,33,0.339409,8203
-The Colonel's Dream,1905,"Chesnutt, Charles W.",1858,1932,1900-1999,16,0.334176,19746
-The Leopard's Spots,1902,"Dixon, Thomas",1864,1946,1900-1999,16,0.334176,54765
-Caballero: A Historical Novel,1930,"Raleigh, Eve",1903,1978,1900-1999,16,0.334176,
-The Prince and the Pauper,1882,"Twain, Mark",1835,1910,1800-1899,32,0.323366,1837
-The Gates Ajar,1868,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,32,0.323366,
-Ruth Hall,1855,"Fern, Fanny",1811,1872,1800-1899,31,0.307323,40814
-The Financier,1912,"Dreiser, Theodore",1871,1945,1900-1999,15,0.29451,1840
-The Hidden Hand,1859,"Southworth, E. D. E. N.",1819,1899,1800-1899,30,0.291279,
-The Garies and Their Friends,1857,"Webb, Frank J.",1847,,1800-1899,30,0.291279,11214
-Little Men,1871,"Alcott, Louisa May",1832,1888,1800-1899,29,0.275236,2788
-Democracy,1880,"Adams, Henry Brooks",1838,1918,1800-1899,28,0.259193,2815
-Wynema,1891,"Callahan, S. Alice",1868,1894,1800-1899,28,0.259193,
-The Gilded Age,1873,"Warner, Charles Dudley",1829,1900,1800-1899,28,0.259193,3178
-The Education of Henry Adams,1907,"Adams, Henry Brooks",1838,1918,1900-1999,14,0.254844,2044
-Barren Ground,1925,"Glasgow, Ellen",1873,1945,1900-1999,14,0.254844,66191
-The Outcry,1911,"James, Henry, Jr.",1843,1916,1900-1999,14,0.254844,21969
-Martin Eden,1909,"London, Jack",1876,1916,1900-1999,14,0.254844,1056
-The Sea-Wolf,1904,"London, Jack",1876,1916,1900-1999,14,0.254844,1074
-Leaves of Grass,1855,"Whitman, Walt",1819,1892,1800-1899,27,0.243149,1322
-The Emigrants,1793,"Imlay, Gilbert",1754,1828,1700-1799,15,0.220045,
-This Side of Paradise,1920,"Fitzgerald, F. Scott",1896,1940,1900-1999,13,0.215179,805
-The Birth of a Nation,1915,"Griffith, D. W.",1875,1948,1900-1999,13,0.215179,
-Twilight Sleep,1927,"Wharton, Edith",1862,1937,1900-1999,13,0.215179,70844
-Female Quixotism,1801,"Tenney, Tabitha",1762,1837,1800-1899,25,0.211063,
-Those Extraordinary Twins,1894,"Twain, Mark",1835,1910,1800-1899,25,0.211063,3185
-Ragged Dick,1867,"Alger, Horatio, Jr.",1832,1899,1800-1899,24,0.19502,5348
-Deephaven,1877,"Jewett, Sarah Orne",1849,1909,1800-1899,24,0.19502,15985
-Miss Ravenel's Conversion from Secession to Loyalty,1867,"De Forest, John William",1826,1906,1800-1899,23,0.178976,41355
-Minnie's Sacrifice,1869,"Harper, Frances Ellen Watkins",1825,1911,1800-1899,23,0.178976,11053
-Daisy Miller,1879,"James, Henry, Jr.",1843,1916,1800-1899,23,0.178976,208
-Clarel,1876,"Melville, Herman",1819,1891,1800-1899,23,0.178976,
-The Silent Partner,1871,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,23,0.178976,31735
-The Rise of David Levinsky,1917,"Cahan, Abraham",1860,1951,1900-1999,12,0.175513,2803
-Soldiers' Pay,1926,"Faulkner, William",1897,1962,1900-1999,12,0.175513,
-Red Harvest,1929,"Hammett, Dashiell",1894,1961,1900-1999,12,0.175513,
-Sein und Zeit,1927,"Heidegger, Martin",1889,1976,1900-1999,12,0.175513,
-The Scarlet Plague,1915,"London, Jack",1876,1916,1900-1999,12,0.175513,21970
-Pollyanna,1913,"Porter, Eleanor H.",1868,1920,1900-1999,12,0.175513,1450
-The Blacker the Berry,1929,"Thurman, Wallace",1902,1934,1900-1999,12,0.175513,
-The Pilot,1823,"Cooper, James Fenimore",1789,1851,1800-1899,22,0.162933,7974
-Jo's Boys,1886,"Alcott, Louisa May",1832,1888,1800-1899,21,0.14689,3499
-My Bondage and My Freedom,1855,"Douglass, Frederick",1817,1895,1800-1899,21,0.14689,202
-The Country of the Pointed Firs,1896,"Jewett, Sarah Orne",1849,1909,1800-1899,21,0.14689,19685
-A Fool's Errand,1879,"Tourgée, Albion W.",1838,1905,1800-1899,21,0.14689,
-Our Nig,1859,"Wilson, Harriet E.",1825,1900,1800-1899,21,0.14689,584
-Jennie Gerhardt,1911,"Dreiser, Theodore",1871,1945,1900-1999,11,0.135847,28988
-Jews without Money,1930,"Gold, Michael",1893,1967,1900-1999,11,0.135847,
-The Ivory Tower,1917,"James, Henry, Jr.",1843,1916,1900-1999,11,0.135847,62979
-The Book of Khalid,1911,"Rihani, Ameen Fares",1876,1940,1900-1999,11,0.135847,29257
-Three Lives,1909,"Stein, Gertrude",1874,1946,1900-1999,11,0.135847,15408
-Greed,1923,"Stroheim, Erich von",1885,1957,1900-1999,11,0.135847,
-Salome of the Tenements,1922,"Yezierska, Anzia",1885,1970,1900-1999,11,0.135847,
-Sheppard Lee,1836,"Bird, Robert Montgomery",1806,1854,1800-1899,20,0.130846,46622
-Sheppard Lee,1836,"Bird, Robert Montgomery",1806,1854,1800-1899,20,0.130846,46621
-Memoirs of Carwin the Biloquist,1815,"Brown, Charles Brockden",1771,1810,1800-1899,20,0.130846,842
-Secret History,1808,"Sansay, Leonora",1781,,1800-1899,20,0.130846,59533
-The Lamplighter,1854,"Cummins, Maria Susanna",1827,1866,1800-1899,19,0.114803,31869
-A Country Doctor,1884,"Jewett, Sarah Orne",1849,1909,1800-1899,19,0.114803,15294
-The Yemassee,1835,"Simms, William Gilmore",1806,1870,1800-1899,19,0.114803,
-The Bravo,1831,"Cooper, James Fenimore",1789,1851,1800-1899,18,0.09876,10363
-The Pathfinder,1840,"Cooper, James Fenimore",1789,1851,1800-1899,18,0.09876,1880
-The Heroic Slave,1853,"Douglass, Frederick",1817,1895,1800-1899,18,0.09876,
-Septimius Felton,1872,"Hawthorne, Nathaniel",1804,1864,1800-1899,18,0.09876,7372
-An Imperative Duty,1892,"Howells, William Dean",1837,1920,1800-1899,18,0.09876,
-Sartoris,1929,"Faulkner, William",1897,1962,1900-1999,10,0.096182,
-Weeds,1923,"Kelley, Edith Summers",1884,1956,1900-1999,10,0.096182,61201
-Elmer Gantry,1927,"Lewis, Sinclair",1885,1951,1900-1999,10,0.096182,72609
-The Iron Heel,1907,"London, Jack",1876,1916,1900-1999,10,0.096182,1164
-Oil!,1927,"Sinclair, Upton",1878,1968,1900-1999,10,0.096182,70379
-Three Thousand Years among the Microbes,1905,"Twain, Mark",1835,1910,1900-1999,10,0.096182,
-Las aventuras de Don Chipote,1928,"Venegas, Daniel",,,1900-1999,10,0.096182,
-The Reef,1912,"Wharton, Edith",1862,1937,1900-1999,10,0.096182,283
-The Children,1928,"Wharton, Edith",1862,1937,1900-1999,10,0.096182,76417
-Esther,1884,"Adams, Henry Brooks",1838,1918,1800-1899,17,0.082716,14409
-The Conjure Woman,1899,"Chesnutt, Charles W.",1858,1932,1800-1899,17,0.082716,11666
-A Romance of the Republic,1867,"Child, Lydia Maria",1802,1880,1800-1899,17,0.082716,
-The Curse of Caste,1865,"Collins, Julia C.",1865,,1800-1899,17,0.082716,
-George's Mother,1896,"Crane, Stephen",1871,1900,1800-1899,17,0.082716,
-Woodcraft,1854,"Simms, William Gilmore",1806,1870,1800-1899,17,0.082716,
-Equality,1897,"Bellamy, Edward",1850,1898,1800-1899,16,0.066673,7303
-Nick of the Woods,1837,"Bird, Robert Montgomery",1806,1854,1800-1899,16,0.066673,13970
-Life on the Mississippi,1883,"Twain, Mark",1835,1910,1800-1899,16,0.066673,245
-Mosquitoes,1927,"Faulkner, William",1897,1962,1900-1999,9,0.056516,
-Winona,1902,"Hopkins, Pauline E.",1859,1930,1900-1999,9,0.056516,70087
-Not without Laughter,1930,"Hughes, Langston",1902,1967,1900-1999,9,0.056516,
-Arrowsmith,1925,"Lewis, Sinclair",1885,1951,1900-1999,9,0.056516,70875
-A Son at the Front,1923,"Wharton, Edith",1862,1937,1900-1999,9,0.056516,
-Notes on the State of Virginia,1787,"Jefferson, Thomas",1743,1826,1700-1799,11,0.053296,
-Reuben and Rachel,1798,"Rowson, Susanna",1762,1824,1700-1799,11,0.053296,
-Satanstoe,1845,"Cooper, James Fenimore",1789,1851,1800-1899,15,0.05063,8880
-Red Rock,1898,"Page, Thomas Nelson",1853,1922,1800-1899,15,0.05063,49648
-A New-England Tale,1822,"Sedgwick, Catharine Maria",1789,1867,1800-1899,15,0.05063,
-Bricks without Straw,1880,"Tourgée, Albion W.",1838,1905,1800-1899,15,0.05063,6058
-The Crater or Vulcan's Peak,1847,"Cooper, James Fenimore",1789,1851,1800-1899,14,0.034587,
-The Wept of Wish-ton-Wish,1829,"Cooper, James Fenimore",1789,1851,1800-1899,14,0.034587,8888
-Fanshawe,1828,"Hawthorne, Nathaniel",1804,1864,1800-1899,14,0.034587,7085
-Elsie Venner,1861,"Holmes, Oliver Wendell",1809,1894,1800-1899,14,0.034587,2696
-Juanita,1887,"Mann, Mary Tyler Peabody",1806,1887,1800-1899,14,0.034587,
-The Pearl of Orr's Island,1862,"Stowe, Harriet Beecher",1811,1896,1800-1899,14,0.034587,31522
-Roughing It,1872,"Twain, Mark",1835,1910,1800-1899,14,0.034587,3177
-Doctor Zay,1882,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,14,0.034587,
-Little Lord Fauntleroy,1886,"Burnett, Frances Hodgson",1849,1924,1800-1899,13,0.018543,479
-Yekl,1896,"Cahan, Abraham",1860,1951,1800-1899,13,0.018543,36715
-The Red Rover,1827,"Cooper, James Fenimore",1789,1851,1800-1899,13,0.018543,11409
-Margret Howth,1862,"Davis, Rebecca Harding",1831,1910,1800-1899,13,0.018543,515
-The Encantadas,1854,"Melville, Herman",1819,1891,1800-1899,13,0.018543,
-Kelroy,1812,"Rush, Rebecca",1812,,1800-1899,13,0.018543,
-In His Steps,1896,"Sheldon, Charles Monroe",1857,1946,1800-1899,13,0.018543,4540
-Oldtown Folks,1869,"Stowe, Harriet Beecher",1811,1896,1800-1899,13,0.018543,
-Ryder,1928,"Barnes, Djuna",1892,1982,1900-1999,8,0.01685,
-The Ladies' Almanack,1928,"Barnes, Djuna",1892,1982,1900-1999,8,0.01685,
-Bruchstück einer Hysterie-Analyse,1905,"Freud, Sigmund",1856,1939,1900-1999,8,0.01685,
-The Torrents of Spring,1926,"Hemingway, Ernest",1899,1961,1900-1999,8,0.01685,
-White Fang,1906,"London, Jack",1876,1916,1900-1999,8,0.01685,910
-The Mark of Zorro,1919,"McCulley, Johnston",1883,1958,1900-1999,8,0.01685,61620
-The Time of Man,1926,"Roberts, Elizabeth Madox",1886,1941,1900-1999,8,0.01685,
-Moods,1865,"Alcott, Louisa May",1832,1888,1800-1899,12,0.0025,28203
-The Story of a Bad Boy,1870,"Aldrich, Thomas Bailey",1836,1907,1800-1899,12,0.0025,
-The Redskins,1846,"Cooper, James Fenimore",1789,1851,1800-1899,12,0.0025,31210
-Nature,1836,"Emerson, Ralph Waldo",1803,1882,1800-1899,12,0.0025,29433
-Beulah,1859,"Evans, Augusta Jane",1835,1909,1800-1899,12,0.0025,4246
-The Other House,1896,"James, Henry, Jr.",1843,1916,1800-1899,12,0.0025,
-The Principles of Psychology,1890,"James, William",1842,1910,1800-1899,12,0.0025,57628
-The Principles of Psychology,1890,"James, William",1842,1910,1800-1899,12,0.0025,57634
-Battle Pieces and Aspects of War,1866,"Melville, Herman",1819,1891,1800-1899,12,0.0025,12384
-The Journal of Julius Rodman,1840,"Poe, Edgar Allan",1809,1849,1800-1899,12,0.0025,
-Sincerity,1803,"Rowson, Susanna",1762,1824,1800-1899,12,0.0025,
-Tom Sawyer Abroad,1894,"Twain, Mark",1835,1910,1800-1899,12,0.0025,91
-The Ambassadors,1533,"Holbein, Hans, the Younger",1497,1543,1500-1599,1,0.0,
+Novel Title,Novel year of publication,Author,Author Birth,Author Death,Period,Count,Z Score,Corpus ID,Gutenberg ID
+Moby-Dick,1851,"Melville, Herman",1819,1891,1800-1899,1459,22.57366,melville_mobydick_1851,15
+The Great Gatsby,1925,"Fitzgerald, F. Scott",1896,1940,1900-1999,778,16.60289,fitzgerald_the-great-gatsby_1925,64317
+The Adventures of Huckleberry Finn,1884,"Twain, Mark",1835,1910,1800-1899,1005,15.491664,twain_the-adventures-of-huckleberry_1884,32325
+The Sound and the Fury,1929,"Faulkner, William",1897,1962,1900-1999,620,13.181933,faulkner_the-sound-and-the-fury_1929,75170
+The Scarlet Letter,1850,"Hawthorne, Nathaniel",1804,1864,1800-1899,782,12.013062,hawthorne_the-scarlet-letter_1850,25344
+Uncle Tom's Cabin,1852,"Stowe, Harriet Beecher",1811,1896,1800-1899,610,9.330015,stowe_uncle-toms-cabin_1852,203
+As I Lay Dying,1930,"Faulkner, William",1897,1962,1900-1999,387,8.137103,faulkner_as-i-lay-dying_1930,
+The Sun Also Rises,1926,"Hemingway, Ernest",1899,1961,1900-1999,372,7.812329,hemingway_the-sun-also-rises_1926,67138
+The House of Mirth,1905,"Wharton, Edith",1862,1937,1900-1999,349,7.314341,wharton_the-house-of-mirth_1905,284
+My Ántonia,1918,"Cather, Willa",1873,1947,1900-1999,343,7.184432,cather_my-antonia_1918,242
+The Awakening,1899,"Chopin, Kate",1851,1904,1800-1899,461,7.005747,chopin_the-awakening_1899,160
+The Portrait of a Lady,1881,"James, Henry, Jr.",1843,1916,1800-1899,444,6.740562,james_the-portrait-of-a-lady_1881,2833
+The Portrait of a Lady,1881,"James, Henry, Jr.",1843,1916,1800-1899,444,6.740562,james_the-portrait-of-a-lady_1881,2834
+The Ambassadors,1903,"James, Henry, Jr.",1843,1916,1900-1999,314,6.556534,james_the-ambassadors_1903,432
+A Farewell to Arms,1929,"Hemingway, Ernest",1899,1961,1900-1999,294,6.123502,hemingway_a-farewell-to-arms_1929,75201
+The Golden Bowl,1904,"James, Henry, Jr.",1843,1916,1900-1999,286,5.950289,james_the-golden-bowl_1904,4264
+Sister Carrie,1900,"Dreiser, Theodore",1871,1945,1900-1999,277,5.755424,dreiser_sister-carrie_1900,233
+Wieland,1798,"Brown, Charles Brockden",1771,1810,1700-1799,143,5.719613,brown_wieland_1798,792
+The Wings of the Dove,1902,"James, Henry, Jr.",1843,1916,1900-1999,262,5.43065,james_the-wings-of-the-dove_1902,29452
+The Wings of the Dove,1902,"James, Henry, Jr.",1843,1916,1900-1999,262,5.43065,james_the-wings-of-the-dove_1902,30059
+The Wonderful Wizard of Oz,1900,"Baum, L. Frank",1856,1919,1900-1999,257,5.322392,baum_the-wonderful-wizard-of-oz_1900,55
+The Professor's House,1925,"Cather, Willa",1873,1947,1900-1999,244,5.04092,cather_the-professors-house_1925,65465
+Pierre,1852,"Melville, Herman",1819,1891,1800-1899,302,4.525489,melville_pierre_1852,34970
+Passing,1929,"Larsen, Nella",1893,1963,1900-1999,215,4.413023,larsen_passing_1929,
+Edgar Huntly,1799,"Brown, Charles Brockden",1771,1810,1700-1799,110,4.310351,brown_edgar-huntly_1799,8223
+The Age of Innocence,1920,"Wharton, Edith",1862,1937,1900-1999,207,4.23981,wharton_the-age-of-innocence_1920,541
+The Pilgrim's Progress,1678,"Bunyan, John",1628,1688,1600-1699,33,4.225351,bunyan_the-pilgrims-progress_1678,
+Quicksand,1928,"Larsen, Nella",1893,1963,1900-1999,188,3.828429,larsen_quicksand_1928,
+The Confidence-Man,1857,"Melville, Herman",1819,1891,1800-1899,249,3.698736,melville_the-confidenceman_1857,21816
+The Blithedale Romance,1852,"Hawthorne, Nathaniel",1804,1864,1800-1899,243,3.605141,hawthorne_the-blithedale-romance_1852,2081
+A Connecticut Yankee in King Arthur's Court,1889,"Twain, Mark",1835,1910,1800-1899,240,3.558344,twain_a-connecticut-yankee-in-king_1889,19506
+Typee,1846,"Melville, Herman",1819,1891,1800-1899,236,3.495947,melville_typee_1846,1900
+The House of the Seven Gables,1851,"Hawthorne, Nathaniel",1804,1864,1800-1899,231,3.417952,hawthorne_the-house-of-the-seven-gables_1851,77
+Little Women,1868,"Alcott, Louisa May",1832,1888,1800-1899,230,3.402353,alcott_little-women_1868,37106
+The Red Badge of Courage,1895,"Crane, Stephen",1871,1900,1800-1899,230,3.402353,crane_the-red-badge-of-courage_1895,73
+The Marble Faun,1860,"Hawthorne, Nathaniel",1804,1864,1800-1899,223,3.293159,hawthorne_the-marble-faun_1860,2181
+The Marble Faun,1860,"Hawthorne, Nathaniel",1804,1864,1800-1899,223,3.293159,hawthorne_the-marble-faun_1860,2182
+The Autobiography of an Ex-Colored Man,1912,"Johnson, James Weldon",1871,1938,1900-1999,160,3.222184,johnson_the-autobiography-of-an_1912,11012
+Death Comes for the Archbishop,1927,"Cather, Willa",1873,1947,1900-1999,158,3.17888,cather_death-comes-for-the-archbishop_1927,69730
+The Coquette,1797,"Foster, Hannah Webster",1759,1840,1700-1799,82,3.114613,foster_the-coquette_1797,12431
+The Song of the Lark,1915,"Cather, Willa",1873,1947,1900-1999,149,2.984016,cather_the-song-of-the-lark_1915,44
+The Narrative of Arthur Gordon Pym of Nantucket,1838,"Poe, Edgar Allan",1809,1849,1800-1899,203,2.981177,poe_the-narrative-of-arthur_1838,51060
+The Tragedy of Pudd'nhead Wilson,1894,"Twain, Mark",1835,1910,1800-1899,198,2.903181,twain_the-tragedy-of-puddnhead_1894,102
+The Bostonians,1886,"James, Henry, Jr.",1843,1916,1800-1899,194,2.840785,james_the-bostonians_1886,19717
+The Bostonians,1886,"James, Henry, Jr.",1843,1916,1800-1899,194,2.840785,james_the-bostonians_1886,19718
+Charlotte Temple,1791,"Rowson, Susanna",1762,1824,1700-1799,74,2.772973,rowson_charlotte-temple_1791,171
+The Marrow of Tradition,1901,"Chesnutt, Charles W.",1858,1932,1900-1999,134,2.659241,chesnutt_the-marrow-of-tradition_1901,11228
+The Last of the Mohicans,1826,"Cooper, James Fenimore",1789,1851,1800-1899,182,2.653595,cooper_the-last-of-the-mohicans_1826,940
+One of Ours,1922,"Cather, Willa",1873,1947,1900-1999,132,2.615938,cather_one-of-ours_1922,2369
+"Look Homeward, Angel",1929,"Wolfe, Thomas",1900,1938,1900-1999,131,2.594286,wolfe_look-homeward-angel_1929,
+Herland,1915,"Gilman, Charlotte Perkins",1860,1935,1900-1999,129,2.550983,gilman_herland_1915,32
+O Pioneers!,1913,"Cather, Willa",1873,1947,1900-1999,128,2.529331,cather_o-pioneers_1913,24
+The Adventures of Tom Sawyer,1876,"Twain, Mark",1835,1910,1800-1899,174,2.528802,twain_the-adventures-of-tom-sawyer_1876,74
+An American Tragedy,1925,"Dreiser, Theodore",1871,1945,1900-1999,127,2.50768,dreiser_an-american-tragedy_1925,75181
+The Custom of the Country,1913,"Wharton, Edith",1862,1937,1900-1999,116,2.269512,wharton_the-custom-of-the-country_1913,
+The Octopus,1901,"Norris, Frank",1870,1902,1900-1999,110,2.139602,norris_the-octopus_1901,268
+Arthur Mervyn,1799,"Brown, Charles Brockden",1771,1810,1700-1799,59,2.132399,brown_arthur-mervyn_1799,18508
+Looking Backward,1888,"Bellamy, Edward",1850,1898,1800-1899,147,2.107626,bellamy_looking-backward_1888,624
+The Secret Garden,1911,"Burnett, Frances Hodgson",1849,1924,1900-1999,108,2.096299,burnett_the-secret-garden_1911,17396
+Manhattan Transfer,1925,"Dos Passos, John",1896,1970,1900-1999,106,2.052996,dospassos_manhattan-transfer_1925,71853
+The Faerie Queene,1590,"Spenser, Edmund",1552,1599,1500-1599,15,2.036116,spenser_the-faerie-queene_1590,6930
+A Lost Lady,1923,"Cather, Willa",1873,1947,1900-1999,100,1.923086,cather_a-lost-lady_1923,65636
+McTeague,1899,"Norris, Frank",1870,1902,1800-1899,135,1.920437,norris_mcteague_1899,165
+Ormond,1799,"Brown, Charles Brockden",1771,1810,1700-1799,50,1.748055,brown_ormond_1799,36289
+Ormond,1799,"Brown, Charles Brockden",1771,1810,1700-1799,50,1.748055,brown_ormond_1799,36290
+Ormond,1799,"Brown, Charles Brockden",1771,1810,1700-1799,50,1.748055,brown_ormond_1799,36291
+Main Street,1920,"Lewis, Sinclair",1885,1951,1900-1999,91,1.728221,lewis_main-street_1920,543
+What Maisie Knew,1897,"James, Henry, Jr.",1843,1916,1800-1899,120,1.68645,james_what-maisie-knew_1897,7118
+The Princess Casamassima,1886,"James, Henry, Jr.",1843,1916,1800-1899,120,1.68645,james_the-princess-casamassima_1886,64599
+The Pioneers,1823,"Cooper, James Fenimore",1789,1851,1800-1899,115,1.608455,cooper_the-pioneers_1823,2275
+Babbitt,1922,"Lewis, Sinclair",1885,1951,1900-1999,84,1.57666,lewis_babbitt_1922,1156
+The Aspern Papers,1888,"James, Henry, Jr.",1843,1916,1800-1899,112,1.561658,james_the-aspern-papers_1888,211
+Ethan Frome,1911,"Wharton, Edith",1862,1937,1900-1999,83,1.555008,wharton_ethan-frome_1911,4517
+The Maltese Falcon,1930,"Hammett, Dashiell",1894,1961,1900-1999,82,1.533357,hammett_the-maltese-falcon_1930,77600
+Of One Blood,1902,"Hopkins, Pauline E.",1859,1930,1900-1999,81,1.511705,hopkins_of-one-blood_1902,69255
+The Power of Sympathy,1789,"Brown, William Hill",1765,1793,1700-1799,43,1.44912,brown_the-power-of-sympathy_1789,69250
+Summer,1917,"Wharton, Edith",1862,1937,1900-1999,78,1.44675,wharton_summer_1917,166
+The Virginian,1902,"Wister, Owen",1860,1938,1900-1999,76,1.403447,wister_the-virginian_1902,1298
+Maggie,1893,"Crane, Stephen",1871,1900,1800-1899,99,1.358869,crane_maggie_1893,447
+The American,1877,"James, Henry, Jr.",1843,1916,1800-1899,99,1.358869,james_the-american_1877,177
+Modern Chivalry,1792,"Brackenridge, Hugh Henry",1748,1816,1700-1799,40,1.321006,brackenridge_modern-chivalry_1792,
+Mardi,1849,"Melville, Herman",1819,1891,1800-1899,94,1.280874,melville_mardi_1849,13720
+Mardi,1849,"Melville, Herman",1819,1891,1800-1899,94,1.280874,melville_mardi_1849,13721
+The Rise of Silas Lapham,1885,"Howells, William Dean",1837,1920,1800-1899,92,1.249675,howells_the-rise-of-silas-lapham_1885,154
+The Making of Americans,1925,"Stein, Gertrude",1874,1946,1900-1999,68,1.230234,stein_the-making-of-americans_1925,
+Hope Leslie,1827,"Sedgwick, Catharine Maria",1789,1867,1800-1899,89,1.202878,sedgwick_hope-leslie_1827,76028
+Hope Leslie,1827,"Sedgwick, Catharine Maria",1789,1867,1800-1899,89,1.202878,sedgwick_hope-leslie_1827,76018
+Incidents in the Life of a Slave Girl,1861,"Jacobs, Harriet Ann",1813,1897,1800-1899,87,1.17168,jacobs_incidents-in-the-life-of-a_1861,11030
+Redburn,1849,"Melville, Herman",1819,1891,1800-1899,86,1.156081,melville_redburn_1849,8118
+Iola Leroy,1892,"Harper, Frances Ellen Watkins",1825,1911,1800-1899,84,1.124882,harper_iola-leroy_1892,12352
+Home to Harlem,1928,"McKay, Claude",1890,1948,1900-1999,63,1.121976,mckay_home-to-harlem_1928,
+Jennie Gerhardt,1911,"Dreiser, Theodore",1871,1945,1900-1999,61,1.078672,dreiser_jennie-gerhardt_1911,28988
+The Sacred Fount,1901,"James, Henry, Jr.",1843,1916,1900-1999,61,1.078672,james_the-sacred-fount_1901,32939
+The House behind the Cedars,1900,"Chesnutt, Charles W.",1858,1932,1900-1999,60,1.057021,chesnutt_the-house-behind-the-cedars_1900,472
+Benito Cereno,1855,"Melville, Herman",1819,1891,1800-1899,79,1.046887,melville_benito-cereno_1855,
+Blake,1859,"Delany, Martin Robison",1812,1885,1800-1899,78,1.031288,delany_blake_1859,
+The Spoils of Poynton,1897,"James, Henry, Jr.",1843,1916,1800-1899,78,1.031288,james_the-spoils-of-poynton_1897,33325
+A Hazard of New Fortunes,1890,"Howells, William Dean",1837,1920,1800-1899,76,1.00009,howells_a-hazard-of-new-fortunes_1890,4600
+The Jungle,1906,"Sinclair, Upton",1878,1968,1900-1999,57,0.992066,sinclair_the-jungle_1906,140
+White-Jacket,1850,"Melville, Herman",1819,1891,1800-1899,75,0.98449,melville_whitejacket_1850,
+Clotel,1853,"Brown, William Wells",1814,1884,1800-1899,74,0.968891,brown_clotel_1853,2046
+The Squatter and the Don,1885,"Ruiz de Burton, María Amparo",1832,1895,1800-1899,73,0.953292,ruizdeburton_the-squatter-and-the-don_1885,35538
+The Call of the Wild,1903,"London, Jack",1876,1916,1900-1999,55,0.948763,london_the-call-of-the-wild_1903,215
+The Algerine Captive,1797,"Tyler, Royall",1757,1826,1700-1799,31,0.936661,tyler_the-algerine-captive_1797,
+The Souls of Black Folk,1903,"Du Bois, W. E. B.",1868,1963,1900-1999,54,0.927111,dubois_the-souls-of-black-folk_1903,408
+Contending Forces,1900,"Hopkins, Pauline E.",1859,1930,1900-1999,54,0.927111,hopkins_contending-forces_1900,
+Washington Square,1881,"James, Henry, Jr.",1843,1916,1800-1899,71,0.922094,james_washington-square_1881,2870
+"The Wide, Wide World",1850,"Warner, Susan",1819,1885,1800-1899,69,0.890896,warner_the-wide-wide-world_1850,28376
+Israel Potter,1855,"Melville, Herman",1819,1891,1800-1899,68,0.875297,melville_israel-potter_1855,15422
+Barren Ground,1925,"Glasgow, Ellen",1873,1945,1900-1999,51,0.862156,glasgow_barren-ground_1925,66191
+Bread Givers,1925,"Yezierska, Anzia",1885,1970,1900-1999,51,0.862156,yezierska_bread-givers_1925,
+The Grandissimes,1880,"Cable, George Washington",1844,1925,1800-1899,67,0.859698,cable_the-grandissimes_1880,12280
+Roderick Hudson,1876,"James, Henry, Jr.",1843,1916,1800-1899,67,0.859698,james_roderick-hudson_1876,176
+The Tragic Muse,1890,"James, Henry, Jr.",1843,1916,1800-1899,67,0.859698,james_the-tragic-muse_1890,20085
+The Turn of the Screw,1898,"James, Henry, Jr.",1843,1916,1800-1899,66,0.844098,james_the-turn-of-the-screw_1898,209
+The Soveraignty and Goodness of God: A Narrative of the Captivity,1682,"Rowlandson, Mary",1635,1711,1600-1699,9,0.834305,rowlandson_the-soveraignty-and-goodness_1682,
+Dark Princess,1928,"Du Bois, W. E. B.",1868,1963,1900-1999,49,0.818853,dubois_dark-princess_1928,
+This Side of Paradise,1920,"Fitzgerald, F. Scott",1896,1940,1900-1999,49,0.818853,fitzgerald_this-side-of-paradise_1920,805
+The Sea-Wolf,1904,"London, Jack",1876,1916,1900-1999,49,0.818853,london_the-seawolf_1904,1074
+The Pit,1903,"Norris, Frank",1870,1902,1900-1999,49,0.818853,norris_the-pit_1903,4382
+Ramona,1884,"Jackson, Helen Hunt",1830,1885,1800-1899,62,0.781702,jackson_ramona_1884,2802
+Dred,1856,"Stowe, Harriet Beecher",1811,1896,1800-1899,62,0.781702,stowe_dred_1856,55012
+The Beautiful and Damned,1922,"Fitzgerald, F. Scott",1896,1940,1900-1999,46,0.753898,fitzgerald_the-beautiful-and-damned_1922,9830
+The Awkward Age,1899,"James, Henry, Jr.",1843,1916,1800-1899,60,0.750504,james_the-awkward-age_1899,7433
+Omoo,1847,"Melville, Herman",1819,1891,1800-1899,59,0.734905,melville_omoo_1847,4045
+Walden,1854,"Thoreau, Henry David",1817,1862,1800-1899,59,0.734905,thoreau_walden_1854,205
+Banjo,1929,"McKay, Claude",1890,1948,1900-1999,45,0.732246,mckay_banjo_1929,
+Martin Eden,1909,"London, Jack",1876,1916,1900-1999,44,0.710595,london_martin-eden_1909,1056
+My Mortal Enemy,1926,"Cather, Willa",1873,1947,1900-1999,43,0.688943,cather_my-mortal-enemy_1926,
+The Damnation of Theron Ware,1896,"Frederic, Harold",1856,1898,1800-1899,56,0.688107,frederic_the-damnation-of-theron-ware_1896,133
+The Clansman,1905,"Dixon, Thomas",1864,1946,1900-1999,42,0.667291,dixon_the-clansman_1905,26240
+Plum Bun,1928,"Fauset, Jessie Redmon",1886,1961,1900-1999,42,0.667291,fauset_plum-bun_1928,
+Red Harvest,1929,"Hammett, Dashiell",1894,1961,1900-1999,42,0.667291,hammett_red-harvest_1929,
+Arrowsmith,1925,"Lewis, Sinclair",1885,1951,1900-1999,42,0.667291,lewis_arrowsmith_1925,70875
+Vandover and the Brute,1914,"Norris, Frank",1870,1902,1900-1999,41,0.64564,norris_vandover-and-the-brute_1914,14712
+Narrative of the Life of Frederick Douglass,1845,"Douglass, Frederick",1817,1895,1800-1899,53,0.64131,douglass_narrative-of-the-life-of_1845,23
+The Prairie,1827,"Cooper, James Fenimore",1789,1851,1800-1899,52,0.625711,cooper_the-prairie_1827,6450
+The Enormous Room,1922,"Cummings, E. E.",1894,1962,1900-1999,40,0.623988,cummings_the-enormous-room_1922,8446
+Soldiers' Pay,1926,"Faulkner, William",1897,1962,1900-1999,39,0.602337,faulkner_soldiers-pay_1926,
+The Reef,1912,"Wharton, Edith",1862,1937,1900-1999,39,0.602337,wharton_the-reef_1912,283
+Sartoris,1929,"Faulkner, William",1897,1962,1900-1999,38,0.580685,faulkner_sartoris_1929,
+The Spy,1821,"Cooper, James Fenimore",1789,1851,1800-1899,49,0.578914,cooper_the-spy_1821,9845
+The Financier,1912,"Dreiser, Theodore",1871,1945,1900-1999,37,0.559033,dreiser_the-financier_1912,1840
+Mosquitoes,1927,"Faulkner, William",1897,1962,1900-1999,37,0.559033,faulkner_mosquitoes_1927,
+Gentlemen Prefer Blondes,1925,"Loos, Anita",1888,1981,1900-1999,37,0.559033,loos_gentlemen-prefer-blondes_1925,
+The Quest of the Silver Fleece,1911,"Du Bois, W. E. B.",1868,1963,1900-1999,36,0.537382,dubois_the-quest-of-the-silver-fleece_1911,
+Imperium in Imperio,1899,"Griggs, Sutton E.",1872,1933,1800-1899,45,0.516517,griggs_imperium-in-imperio_1899,15454
+The Rise of David Levinsky,1917,"Cahan, Abraham",1860,1951,1900-1999,35,0.51573,cahan_the-rise-of-david-levinsky_1917,2803
+Morgesons,1862,"Stoddard, Elizabeth Drew",1823,1902,1800-1899,44,0.500918,stoddard_morgesons_1862,12347
+Who Would Have Thought It?,1872,"Ruiz de Burton, María Amparo",1832,1895,1800-1899,43,0.485319,ruizdeburton_who-would-have-thought-it_1872,
+Ryder,1928,"Barnes, Djuna",1892,1982,1900-1999,33,0.472427,barnes_ryder_1928,
+Giants in the Earth,1927,"Rølvaag, Ole Edvart",1876,1931,1900-1999,33,0.472427,rlvaag_giants-in-the-earth_1927,75491
+Ben-Hur,1880,"Wallace, Lew",1827,1905,1800-1899,41,0.454121,wallace_benhur_1880,2145
+The Sport of the Gods,1902,"Dunbar, Paul Laurence",1872,1906,1900-1999,32,0.450775,dunbar_the-sport-of-the-gods_1902,17854
+The Birth of a Nation,1915,"Griffith, D. W.",1875,1948,1900-1999,32,0.450775,griffith_the-birth-of-a-nation_1915,
+The Iron Heel,1907,"London, Jack",1876,1916,1900-1999,32,0.450775,london_the-iron-heel_1907,1164
+Cane,1923,"Toomer, Jean",1894,1967,1900-1999,32,0.450775,toomer_cane_1923,60093
+The Deerslayer,1841,"Cooper, James Fenimore",1789,1851,1800-1899,40,0.438522,cooper_the-deerslayer_1841,3285
+"The Life and Adventures of Joaquin Murieta, the Celebrated California Bandit",1854,"Ridge, John Rollin",1827,1867,1800-1899,40,0.438522,ridge_the-life-and-adventures-of_1854,
+The Minister's Wooing,1859,"Stowe, Harriet Beecher",1811,1896,1800-1899,40,0.438522,stowe_the-ministers-wooing_1859,47958
+Work,1873,"Alcott, Louisa May",1832,1888,1800-1899,39,0.422922,alcott_work_1873,4770
+At Fault,1890,"Chopin, Kate",1851,1904,1800-1899,39,0.422922,chopin_at-fault_1890,23810
+Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.422922,twain_personal-recollections-of_1896,2874
+Personal Recollections of Joan of Arc,1896,"Twain, Mark",1835,1910,1800-1899,39,0.422922,twain_personal-recollections-of_1896,2875
+Tarzan of the Apes,1912,"Burroughs, Edgar Rice",1875,1950,1900-1999,30,0.407472,burroughs_tarzan-of-the-apes_1912,78
+The Colonel's Dream,1905,"Chesnutt, Charles W.",1858,1932,1900-1999,30,0.407472,chesnutt_the-colonels-dream_1905,19746
+Pollyanna,1913,"Porter, Eleanor H.",1868,1920,1900-1999,30,0.407472,porter_pollyanna_1913,1450
+The Quaker City,1845,"Lippard, George",1822,1854,1800-1899,37,0.391724,lippard_the-quaker-city_1845,
+Leaves of Grass,1855,"Whitman, Walt",1819,1892,1800-1899,37,0.391724,whitman_leaves-of-grass_1855,1322
+"Winesburg, Ohio",1919,"Anderson, Sherwood",1876,1941,1900-1999,29,0.38582,anderson_winesburg-ohio_1919,416
+Hobomok,1824,"Child, Lydia Maria",1802,1880,1800-1899,36,0.376125,child_hobomok_1824,
+The Europeans,1878,"James, Henry, Jr.",1843,1916,1800-1899,36,0.376125,james_the-europeans_1878,179
+Jews without Money,1930,"Gold, Michael",1893,1967,1900-1999,28,0.364169,gold_jews-without-money_1930,
+Hagar's Daughter,1901,"Hopkins, Pauline E.",1859,1930,1900-1999,28,0.364169,hopkins_hagars-daughter_1901,
+The American Scene,1907,"James, Henry, Jr.",1843,1916,1900-1999,28,0.364169,james_the-american-scene_1907,68717
+A Modern Instance,1882,"Howells, William Dean",1837,1920,1800-1899,35,0.360526,howells_a-modern-instance_1882,8203
+The Leopard's Spots,1902,"Dixon, Thomas",1864,1946,1900-1999,27,0.342517,dixon_the-leopards-spots_1902,54765
+White Fang,1906,"London, Jack",1876,1916,1900-1999,27,0.342517,london_white-fang_1906,910
+The Gates Ajar,1868,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,33,0.329328,ward_the-gates-ajar_1868,
+A Little Princess,1905,"Burnett, Frances Hodgson",1849,1924,1900-1999,26,0.320865,burnett_a-little-princess_1905,146
+Ruth Hall,1855,"Fern, Fanny",1811,1872,1800-1899,32,0.313729,fern_ruth-hall_1855,40814
+The Prince and the Pauper,1882,"Twain, Mark",1835,1910,1800-1899,32,0.313729,twain_the-prince-and-the-pauper_1882,1837
+Elmer Gantry,1927,"Lewis, Sinclair",1885,1951,1900-1999,25,0.299214,lewis_elmer-gantry_1927,72609
+Caballero: A Historical Novel,1930,"Raleigh, Eve",1903,1978,1900-1999,25,0.299214,raleigh_caballero-a-historical-novel_1930,
+The Time of Man,1926,"Roberts, Elizabeth Madox",1886,1941,1900-1999,25,0.299214,roberts_the-time-of-man_1926,
+The Emigrants,1793,"Imlay, Gilbert",1754,1828,1700-1799,16,0.296087,imlay_the-emigrants_1793,
+Democracy,1880,"Adams, Henry Brooks",1838,1918,1800-1899,30,0.28253,adams_democracy_1880,2815
+Yekl,1896,"Cahan, Abraham",1860,1951,1800-1899,30,0.28253,cahan_yekl_1896,36715
+Wynema,1891,"Callahan, S. Alice",1868,1894,1800-1899,30,0.28253,callahan_wynema_1891,
+The Hidden Hand,1859,"Southworth, E. D. E. N.",1819,1899,1800-1899,30,0.28253,southworth_the-hidden-hand_1859,
+The Garies and Their Friends,1857,"Webb, Frank J.",1847,,1800-1899,30,0.28253,webb_the-garies-and-their-friends_1857,11214
+Not without Laughter,1930,"Hughes, Langston",1902,1967,1900-1999,24,0.277562,hughes_not-without-laughter_1930,
+The Star Rover,1915,"London, Jack",1876,1916,1900-1999,24,0.277562,london_the-star-rover_1915,
+Little Men,1871,"Alcott, Louisa May",1832,1888,1800-1899,29,0.266931,alcott_little-men_1871,2788
+Three Soldiers,1921,"Dos Passos, John",1896,1970,1900-1999,23,0.25591,dospassos_three-soldiers_1921,6362
+Weeds,1923,"Kelley, Edith Summers",1884,1956,1900-1999,23,0.25591,kelley_weeds_1923,61201
+Notes on the State of Virginia,1787,"Jefferson, Thomas",1743,1826,1700-1799,15,0.253383,jefferson_notes-on-the-state-of-virginia_1787,
+Daisy Miller,1879,"James, Henry, Jr.",1843,1916,1800-1899,28,0.251332,james_daisy-miller_1879,208
+The Gilded Age,1873,"Warner, Charles Dudley",1829,1900,1800-1899,28,0.251332,warner_the-gilded-age_1873,3178
+The Education of Henry Adams,1907,"Adams, Henry Brooks",1838,1918,1900-1999,22,0.234259,adams_the-education-of-henry-adams_1907,2044
+The Sense of the Past,1917,"James, Henry, Jr.",1843,1916,1900-1999,22,0.234259,james_the-sense-of-the-past_1917,63369
+The Book of Khalid,1911,"Rihani, Ameen Fares",1876,1940,1900-1999,22,0.234259,rihani_the-book-of-khalid_1911,29257
+The Blacker the Berry,1929,"Thurman, Wallace",1902,1934,1900-1999,22,0.234259,thurman_the-blacker-the-berry_1929,
+Twilight Sleep,1927,"Wharton, Edith",1862,1937,1900-1999,22,0.234259,wharton_twilight-sleep_1927,70844
+Female Quixotism,1801,"Tenney, Tabitha",1762,1837,1800-1899,26,0.220134,tenney_female-quixotism_1801,
+There Is Confusion,1924,"Fauset, Jessie Redmon",1886,1961,1900-1999,21,0.212607,fauset_there-is-confusion_1924,
+Three Lives,1909,"Stein, Gertrude",1874,1946,1900-1999,21,0.212607,stein_three-lives_1909,15408
+Nigger Heaven,1926,"Van Vechten, Carl",1880,1964,1900-1999,21,0.212607,vanvechten_nigger-heaven_1926,
+Ragged Dick,1867,"Alger, Horatio, Jr.",1832,1899,1800-1899,25,0.204535,alger_ragged-dick_1867,5348
+The Conjure Woman,1899,"Chesnutt, Charles W.",1858,1932,1800-1899,25,0.204535,chesnutt_the-conjure-woman_1899,11666
+Those Extraordinary Twins,1894,"Twain, Mark",1835,1910,1800-1899,25,0.204535,twain_those-extraordinary-twins_1894,3185
+Alexander's Bridge,1912,"Cather, Willa",1873,1947,1900-1999,20,0.190956,cather_alexanders-bridge_1912,94
+In Our Time,1924,"Hemingway, Ernest",1899,1961,1900-1999,20,0.190956,hemingway_in-our-time_1924,61085
+The Pilot,1823,"Cooper, James Fenimore",1789,1851,1800-1899,24,0.188936,cooper_the-pilot_1823,7974
+Deephaven,1877,"Jewett, Sarah Orne",1849,1909,1800-1899,24,0.188936,jewett_deephaven_1877,
+Secret History,1808,"Sansay, Leonora",1781,,1800-1899,24,0.188936,sansay_secret-history_1808,59533
+The Silent Partner,1871,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,24,0.188936,ward_the-silent-partner_1871,31735
+Miss Ravenel's Conversion from Secession to Loyalty,1867,"De Forest, John William",1826,1906,1800-1899,23,0.173337,deforest_miss-ravenels-conversion-from_1867,41355
+My Bondage and My Freedom,1855,"Douglass, Frederick",1817,1895,1800-1899,23,0.173337,douglass_my-bondage-and-my-freedom_1855,202
+Minnie's Sacrifice,1869,"Harper, Frances Ellen Watkins",1825,1911,1800-1899,23,0.173337,harper_minnies-sacrifice_1869,11053
+The Country of the Pointed Firs,1896,"Jewett, Sarah Orne",1849,1909,1800-1899,23,0.173337,jewett_the-country-of-the-pointed_1896,19685
+Clarel,1876,"Melville, Herman",1819,1891,1800-1899,23,0.173337,melville_clarel_1876,
+Las aventuras de Don Chipote,1928,"Venegas, Daniel",,,1900-1999,19,0.169304,venegas_las-aventuras-de-don-chipote_1928,
+A Son at the Front,1923,"Wharton, Edith",1862,1937,1900-1999,19,0.169304,wharton_a-son-at-the-front_1923,
+Salome of the Tenements,1922,"Yezierska, Anzia",1885,1970,1900-1999,19,0.169304,yezierska_salome-of-the-tenements_1922,
+A Fool's Errand,1879,"Tourgée, Albion W.",1838,1905,1800-1899,22,0.157738,tourgee_a-fools-errand_1879,
+The 'Genius',1915,"Dreiser, Theodore",1871,1945,1900-1999,18,0.147652,dreiser_the-genius_1915,
+Daughter of Earth,1929,"Smedley, Agnes",1890,1950,1900-1999,18,0.147652,smedley_daughter-of-earth_1929,
+The Children,1928,"Wharton, Edith",1862,1937,1900-1999,18,0.147652,wharton_the-children_1928,76417
+Jo's Boys,1886,"Alcott, Louisa May",1832,1888,1800-1899,21,0.142138,alcott_jos-boys_1886,3499
+The Lamplighter,1854,"Cummins, Maria Susanna",1827,1866,1800-1899,21,0.142138,cummins_the-lamplighter_1854,31869
+Our Nig,1859,"Wilson, Harriet E.",1825,1900,1800-1899,21,0.142138,wilson_our-nig_1859,584
+Sheppard Lee,1836,"Bird, Robert Montgomery",1806,1854,1800-1899,20,0.126539,bird_sheppard-lee_1836,46622
+Sheppard Lee,1836,"Bird, Robert Montgomery",1806,1854,1800-1899,20,0.126539,bird_sheppard-lee_1836,46621
+Memoirs of Carwin the Biloquist,1815,"Brown, Charles Brockden",1771,1810,1800-1899,20,0.126539,brown_memoirs-of-carwin-the_1815,842
+The Great Meadow,1930,"Roberts, Elizabeth Madox",1886,1941,1900-1999,17,0.126001,roberts_the-great-meadow_1930,
+Tender Buttons,1914,"Stein, Gertrude",1874,1946,1900-1999,17,0.126001,stein_tender-buttons_1914,15396
+The Bravo,1831,"Cooper, James Fenimore",1789,1851,1800-1899,19,0.11094,cooper_the-bravo_1831,10363
+The Heroic Slave,1853,"Douglass, Frederick",1817,1895,1800-1899,19,0.11094,douglass_the-heroic-slave_1853,
+A Country Doctor,1884,"Jewett, Sarah Orne",1849,1909,1800-1899,19,0.11094,jewett_a-country-doctor_1884,
+The Yemassee,1835,"Simms, William Gilmore",1806,1870,1800-1899,19,0.11094,simms_the-yemassee_1835,
+The Torrents of Spring,1926,"Hemingway, Ernest",1899,1961,1900-1999,16,0.104349,hemingway_the-torrents-of-spring_1926,
+The Scarlet Plague,1915,"London, Jack",1876,1916,1900-1999,16,0.104349,london_the-scarlet-plague_1915,21970
+The Valley of the Moon,1913,"London, Jack",1876,1916,1900-1999,16,0.104349,london_the-valley-of-the-moon_1913,1449
+Oil!,1927,"Sinclair, Upton",1878,1968,1900-1999,16,0.104349,sinclair_oil_1927,70379
+The Fruit of the Tree,1907,"Wharton, Edith",1862,1937,1900-1999,16,0.104349,wharton_the-fruit-of-the-tree_1907,19191
+Equality,1897,"Bellamy, Edward",1850,1898,1800-1899,18,0.095341,bellamy_equality_1897,7303
+The Pathfinder,1840,"Cooper, James Fenimore",1789,1851,1800-1899,18,0.095341,cooper_the-pathfinder_1840,1880
+Septimius Felton,1872,"Hawthorne, Nathaniel",1804,1864,1800-1899,18,0.095341,hawthorne_septimius-felton_1872,7372
+An Imperative Duty,1892,"Howells, William Dean",1837,1920,1800-1899,18,0.095341,howells_an-imperative-duty_1892,
+Windy McPherson's Son,1916,"Anderson, Sherwood",1876,1941,1900-1999,15,0.082697,anderson_windy-mcphersons-son_1916,7443
+Poor White,1920,"Anderson, Sherwood",1876,1941,1900-1999,15,0.082697,anderson_poor-white_1920,7414
+The Marvelous Land of Oz,1904,"Baum, L. Frank",1856,1919,1900-1999,15,0.082697,baum_the-marvelous-land-of-oz_1904,19466
+One Man's Initiation—1917,1920,"Dos Passos, John",1896,1970,1900-1999,15,0.082697,dospassos_one-mans-initiation1917_1920,24202
+Sein und Zeit,1927,"Heidegger, Martin",1889,1976,1900-1999,15,0.082697,heidegger_sein-und-zeit_1927,
+The Touchstone,1900,"Wharton, Edith",1862,1937,1900-1999,15,0.082697,wharton_the-touchstone_1900,267
+Reuben and Rachel,1798,"Rowson, Susanna",1762,1824,1700-1799,11,0.082563,rowson_reuben-and-rachel_1798,
+Esther,1884,"Adams, Henry Brooks",1838,1918,1800-1899,17,0.079742,adams_esther_1884,14409
+A Romance of the Republic,1867,"Child, Lydia Maria",1802,1880,1800-1899,17,0.079742,child_a-romance-of-the-republic_1867,
+The Curse of Caste,1865,"Collins, Julia C.",1865,,1800-1899,17,0.079742,collins_the-curse-of-caste_1865,
+George's Mother,1896,"Crane, Stephen",1871,1900,1800-1899,17,0.079742,crane_georges-mother_1896,
+Woodcraft,1854,"Simms, William Gilmore",1806,1870,1800-1899,17,0.079742,simms_woodcraft_1854,
+Life on the Mississippi,1883,"Twain, Mark",1835,1910,1800-1899,17,0.079742,twain_life-on-the-mississippi_1883,245
+Nick of the Woods,1837,"Bird, Robert Montgomery",1806,1854,1800-1899,16,0.064143,bird_nick-of-the-woods_1837,13970
+Little Lord Fauntleroy,1886,"Burnett, Frances Hodgson",1849,1924,1800-1899,16,0.064143,burnett_little-lord-fauntleroy_1886,479
+The Principles of Psychology,1890,"James, William",1842,1910,1800-1899,16,0.064143,james_the-principles-of-psychology_1890,57628
+The Principles of Psychology,1890,"James, William",1842,1910,1800-1899,16,0.064143,james_the-principles-of-psychology_1890,57634
+Red Rock,1898,"Page, Thomas Nelson",1853,1922,1800-1899,16,0.064143,page_red-rock_1898,49648
+Winona,1902,"Hopkins, Pauline E.",1859,1930,1900-1999,14,0.061046,hopkins_winona_1902,70087
+The Outcry,1911,"James, Henry, Jr.",1843,1916,1900-1999,14,0.061046,james_the-outcry_1911,21969
+The Crater or Vulcan's Peak,1847,"Cooper, James Fenimore",1789,1851,1800-1899,15,0.048544,cooper_the-crater-or-vulcans-peak_1847,
+Satanstoe,1845,"Cooper, James Fenimore",1789,1851,1800-1899,15,0.048544,cooper_satanstoe_1845,8880
+Fanshawe,1828,"Hawthorne, Nathaniel",1804,1864,1800-1899,15,0.048544,hawthorne_fanshawe_1828,7085
+A New-England Tale,1822,"Sedgwick, Catharine Maria",1789,1867,1800-1899,15,0.048544,sedgwick_a-newengland-tale_1822,
+Bricks without Straw,1880,"Tourgée, Albion W.",1838,1905,1800-1899,15,0.048544,tourgee_bricks-without-straw_1880,6058
+The Boarding School,1798,"Foster, Hannah Webster",1759,1840,1700-1799,10,0.039858,foster_the-boarding-school_1798,55558
+Palimpsest,1926,"Doolittle, Hilda",1886,1961,1900-1999,13,0.039394,doolittle_palimpsest_1926,
+Virginia,1913,"Glasgow, Ellen",1873,1945,1900-1999,13,0.039394,glasgow_virginia_1913,26316
+The Glimpses of the Moon,1922,"Wharton, Edith",1862,1937,1900-1999,13,0.039394,wharton_the-glimpses-of-the-moon_1922,1263
+The Wept of Wish-ton-Wish,1829,"Cooper, James Fenimore",1789,1851,1800-1899,14,0.032945,cooper_the-wept-of-wishtonwish_1829,8888
+Nature,1836,"Emerson, Ralph Waldo",1803,1882,1800-1899,14,0.032945,emerson_nature_1836,29433
+Elsie Venner,1861,"Holmes, Oliver Wendell",1809,1894,1800-1899,14,0.032945,holmes_elsie-venner_1861,2696
+In the Cage,1898,"James, Henry, Jr.",1843,1916,1800-1899,14,0.032945,james_in-the-cage_1898,1144
+Juanita,1887,"Mann, Mary Tyler Peabody",1806,1887,1800-1899,14,0.032945,mann_juanita_1887,
+The Encantadas,1854,"Melville, Herman",1819,1891,1800-1899,14,0.032945,melville_the-encantadas_1854,
+The Pearl of Orr's Island,1862,"Stowe, Harriet Beecher",1811,1896,1800-1899,14,0.032945,stowe_the-pearl-of-orrs-island_1862,31522
+Roughing It,1872,"Twain, Mark",1835,1910,1800-1899,14,0.032945,twain_roughing-it_1872,3177
+Doctor Zay,1882,"Ward, Elizabeth Stuart Phelps",1844,1911,1800-1899,14,0.032945,ward_doctor-zay_1882,
+Dark Laughter,1925,"Anderson, Sherwood",1876,1941,1900-1999,12,0.017743,anderson_dark-laughter_1925,
+The Ladies' Almanack,1928,"Barnes, Djuna",1892,1982,1900-1999,12,0.017743,barnes_the-ladies-almanack_1928,
+Dodsworth,1929,"Lewis, Sinclair",1885,1951,1900-1999,12,0.017743,lewis_dodsworth_1929,
+The Mark of Zorro,1919,"McCulley, Johnston",1883,1958,1900-1999,12,0.017743,mcculley_the-mark-of-zorro_1919,61620
+The Magnificent Ambersons,1918,"Tarkington, Booth",1869,1944,1900-1999,12,0.017743,tarkington_the-magnificent-ambersons_1918,8867
+The Red Rover,1827,"Cooper, James Fenimore",1789,1851,1800-1899,13,0.017346,cooper_the-red-rover_1827,11409
+Margret Howth,1862,"Davis, Rebecca Harding",1831,1910,1800-1899,13,0.017346,davis_margret-howth_1862,515
+Kelroy,1812,"Rush, Rebecca",1812,,1800-1899,13,0.017346,rush_kelroy_1812,
+In His Steps,1896,"Sheldon, Charles Monroe",1857,1946,1800-1899,13,0.017346,sheldon_in-his-steps_1896,4540
+Oldtown Folks,1869,"Stowe, Harriet Beecher",1811,1896,1800-1899,13,0.017346,stowe_oldtown-folks_1869,
+Tom Sawyer Abroad,1894,"Twain, Mark",1835,1910,1800-1899,13,0.017346,twain_tom-sawyer-abroad_1894,91
+The Theory of the Leisure Class,1899,"Veblen, Thorstein",1857,1929,1800-1899,13,0.017346,veblen_the-theory-of-the-leisure_1899,833
+Behind a Mask,1866,"Alcott, Louisa May",1832,1888,1800-1899,12,0.001746,alcott_behind-a-mask_1866,8677
+Moods,1865,"Alcott, Louisa May",1832,1888,1800-1899,12,0.001746,alcott_moods_1865,28203
+The Story of a Bad Boy,1870,"Aldrich, Thomas Bailey",1836,1907,1800-1899,12,0.001746,aldrich_the-story-of-a-bad-boy_1870,
+The Redskins,1846,"Cooper, James Fenimore",1789,1851,1800-1899,12,0.001746,cooper_the-redskins_1846,31210
+Beulah,1859,"Evans, Augusta Jane",1835,1909,1800-1899,12,0.001746,evans_beulah_1859,4246
+The Golden Bough,1890,"Frazer, Sir James George",1854,1941,1800-1899,12,0.001746,frazer_the-golden-bough_1890,3623
+A Traveler from Altruria,1892,"Howells, William Dean",1837,1920,1800-1899,12,0.001746,howells_a-traveler-from-altruria_1892,8449
+The Other House,1896,"James, Henry, Jr.",1843,1916,1800-1899,12,0.001746,james_the-other-house_1896,
+Evangeline,1847,"Longfellow, Henry Wadsworth",1807,1882,1800-1899,12,0.001746,longfellow_evangeline_1847,15390
+Battle Pieces and Aspects of War,1866,"Melville, Herman",1819,1891,1800-1899,12,0.001746,melville_battle-pieces-and-aspects-of_1866,12384
+The Journal of Julius Rodman,1840,"Poe, Edgar Allan",1809,1849,1800-1899,12,0.001746,poe_the-journal-of-julius-rodman_1840,
+Sincerity,1803,"Rowson, Susanna",1762,1824,1800-1899,12,0.001746,rowson_sincerity_1803,
+Agnes of Sorrento,1862,"Stowe, Harriet Beecher",1811,1896,1800-1899,12,0.001746,stowe_agnes-of-sorrento_1862,43076
+The Confessions of Nat Turner,1831,"Turner, Nat",1800,1831,1800-1899,12,0.001746,turner_the-confessions-of-nat-turner_1831,15333
